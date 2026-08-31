@@ -59,6 +59,6 @@ Some features I want to add are:
 
 ## Author
 
-Darshan Patil
+Basavanagouda Patil
 
 Currently learning Python and building projects to improve my programming skills.
